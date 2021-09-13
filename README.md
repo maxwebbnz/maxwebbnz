@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Laravel, Google Cloud**
 
-- 👨‍💻 All of my projects are available at [webbm.xyz](webbm.xyz)
 
 - 📫 How to reach me **maxwebblighting@gmail.com**
 
