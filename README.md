@@ -1,7 +1,7 @@
 <h1 align="center">Kia ora 👋, I'm Max Webb</h1>
 <h3 align="center">A developer and techie from New Zealand</h3>
 
-- 🔭 I’m currently working on **school projects and Cryptic Roleplay (a Garry's Mod community)**
+- 🔭 I’m currently working on **school projects**
 
 - 🌱 I’m currently learning **Laravel, Google Cloud**
 
