@@ -1,14 +1,8 @@
 <h1 align="center">Kia ora 👋, I'm Max Webb</h1>
-<h3 align="center">A developer and techie from New Zealand</h3>
-
 - 🔭 I’m currently working on **school projects**
-
-- 🌱 I’m currently learning **Laravel, Google Cloud**
 
 
 - 📫 How to reach me **maxwebblighting@gmail.com**
-
-- ⚡ Fun fact **More human twins are being born now than ever before**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
