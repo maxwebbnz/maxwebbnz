@@ -1,5 +1,5 @@
-<h1 align="center">Kia ora, I'm Max</h1>
-<h3 align="center">Just a guy from Wellington, New Zealand</h3>
+<h1 align="center">Kia ora, I'm Max Webb</h1>
+<h6 align="center">New Zealand</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxwebbnz&label=Profile%20views&color=0e75b6&style=flat" alt="maxwebbnz" /> </p>
 
