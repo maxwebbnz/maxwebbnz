@@ -5,16 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxwebbnz" alt="maxwebbnz" /></a> </p>
 
-- 🔭 I’m currently working on [QuizPoint](https://github.com/maxwebbnz/quizpoint)
-
-- 🌱 I’m currently learning **A bit more about react**
-
-- 👨‍💻 All of my projects are available at [https://github.com/maxwebbnz](https://github.com/maxwebbnz)
-
-- 📫 How to reach me **maxwebblighting@gmail.com**
-
-- ⚡ Fun fact **Radium had been used to make self-luminous paints for watches, aircraft instrument dials and other instrumentation, but has largely been replaced by cobalt-60, a less dangerous radioactive source. A mixture of radium and beryllium will emit neutrons and is used as a neutron source.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/maxwebbnz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="maxwebbnz" height="30" width="40" /></a>
